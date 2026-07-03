@@ -44,7 +44,7 @@ FileReader/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/FileReader.git
+git clone https://github.com/vaibhav-vyas-01/FileReader.git
 ```
 
 ### Open the project
