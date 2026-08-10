@@ -1,128 +1,51 @@
-# FileReader 1.1
+# 🚀 Hi there, I'm [તમારું નામ અહીં લખો] 
 
-FileReader is a simple Python project that can read the contents of a text file aloud or directly speak text entered by the user. It uses the built-in Windows Speech API through PowerShell and works offline.
+<div align="center">
 
-## About
+### 💡 Tech Enthusiast | AI Developer | Web & Automation Creator
 
-This project was built as one of my first Python projects to practice:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-160%2B_Connections-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Kaggle Certificates](https://img.shields.io/badge/Kaggle-Python_Certified-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com)
+[![Status](https://img.shields.io/badge/Building-Open_Source_Projects-success?style=for-the-badge)]()
 
-- File Handling
-- Loops
-- Conditional Statements
-- User Input
-- Text-to-Speech
-- Working with the `os` module
+---
 
-## Features
+### 🌟 About Me
+- 🎓 **Education:** Currently pursuing **Diploma in Computer Engineering** (1st Semester)
+- 🤖 **Specialization:** AI Workflows, Web Development & Smart Automation
+- 🛠️ **Featured Project:** Built an advanced **n8n Automated Lead Generation Engine** (YouTube Scraper + Personalized Email System with Google Sheets Deduplication)
+- 🎯 **3-Year Vision:** Building 10-15 high-impact Open-Source projects to solve real-world problems.
 
-- Read any text file from your computer.
-- Speak the contents of a text file.
-- Speak text entered directly by the user.
-- Automatically checks whether a file exists.
-- Displays the file content before speaking it.
-- Supports continuous input using a loop.
-- Works completely offline on Windows.
+---
 
-## Technologies Used
+### 🛠️ Tech Stack & Skills
 
-- Python 3
-- Python os module
-- Windows PowerShell Speech API
+- **Languages & Frontend:** HTML5, CSS3, Python
+- **Automation & Tools:** n8n, Git, GitHub, Kaggle Notebooks
+- **Domains:** Artificial Intelligence (3+ Years Experience), Web Scrapers, Email Automations
 
-## Project Structure
+---
 
-```
-FileReader/
-│
-├── main.py
-├── default.txt
-└── README.md
-```
+### 🏆 Featured Automation Project
 
-## How to Run
+> **🤖 Smart YouTube Outreach & Lead Gen Engine (n8n)**
+> - Automatically searches targeted niche videos on YouTube.
+> - Filters channels based on subscriber range ($10\text{K} - 90\text{K}$).
+> - Extracts contact details and sends customized personalized outreach emails.
+> - Logs all outreach history in Google Sheets to prevent duplicate emails.
 
-### Clone the repository
+---
 
-```bash
-git clone https://github.com/vaibhav-vyas-01/FileReader.git
-```
+### 📊 GitHub Stats
 
-### Open the project
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radial)
 
-```bash
-cd FileReader
-```
+---
 
-### Run the program
+### 📬 Connect With Me
 
-```bash
-python main.py
-```
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com)
+[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>](https://kaggle.com)
 
-## Example
-
-### Speaking Text
-
-```
-Enter full file path OR text:
-
-Hello, my name is Vaibhav.
-```
-
-Output
-
-```
-The computer speaks:
-
-Hello, my name is Vaibhav.
-```
-
-### Reading a File
-
-```
-Enter full file path OR text:
-
-C:\Users\Vaibhav\Desktop\notes.txt
-```
-
-Output
-
-```
-The file is displayed on the screen.
-
-The computer reads the contents aloud.
-```
-
-## Current Limitations
-
-- Designed for Windows.
-- Uses PowerShell for speech output.
-- Very large text files may not perform as well because the speech command is sent through PowerShell.
-
-## Future Improvements
-
-- Graphical User Interface (Tkinter)
-- File Picker
-- Voice Selection
-- Speech Rate Control
-- PDF Reader Support
-- Better handling of large text files
-- Cross-platform support
-
-## Learning Outcome
-
-While building this project, I learned:
-
-- Reading files using Python
-- Checking file existence
-- Using loops for continuous execution
-- Working with user input
-- Integrating Python with Windows PowerShell
-- Building a simple command-line application
-
-
-## Author
-
-**Vaibhav Vyas**
-
-GitHub: https://github.com/vaibhav-vyas-01
+</div>
